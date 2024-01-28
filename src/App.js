@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Hello Anitha!, I have develop an react web page and deployed at very first app.
+            Hello World! 
+            This is a sample of the ReactJs application by me, for deploying to netlify. 
         </p>
         <a
           className="App-link"
